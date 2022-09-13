@@ -2,6 +2,8 @@
 
 I made the Point of Sale application using **.NET 5**
 
+I have used **Visual Studio 2022** for developing this application.
+
 Project has both Windows UI ( just for convenince ) and the Nunit test project.
 The test project covers the test cases given in the technical test.
 
