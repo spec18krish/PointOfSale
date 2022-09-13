@@ -1,4 +1,4 @@
-# PointOfSale #
+# Point Of Sale #
 
 I made the Point of Sale application using **.NET 5**
 
