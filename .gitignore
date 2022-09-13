@@ -1,0 +1,11 @@
+*.dll
+**/bin/Debug/
+**/bin/Release/
+**/dist/
+**/obj/
+**/bin/*
+**/obj/*
+bin
+obj
+packages
+**/node_modules/

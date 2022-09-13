@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91b998d4-5d66-4426-87dd-37c75c419bbc": {
+      "ProjectGuid": "91b998d4-5d66-4426-87dd-37c75c419bbc",
+      "DisplayName": "PointOfSale.Windows",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a4b5322e-f6a4-463d-9e4d-e4fa5f63e184": {
+      "ProjectGuid": "a4b5322e-f6a4-463d-9e4d-e4fa5f63e184",
+      "DisplayName": "PointOfSale.BL",
+      "ColorIndex": 1
+    },
+    "bb8a2aa4-9fff-474e-a094-fe9412a62acf": {
+      "ProjectGuid": "bb8a2aa4-9fff-474e-a094-fe9412a62acf",
+      "DisplayName": "PointOfSale.Model",
+      "ColorIndex": 2
+    },
+    "185e9662-269f-4f18-9f36-77ff0262ab71": {
+      "ProjectGuid": "185e9662-269f-4f18-9f36-77ff0262ab71",
+      "DisplayName": "PointOfSale.Tets",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
